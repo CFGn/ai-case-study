@@ -1,51 +1,51 @@
-# ai-case-study
-
-# TITLE
+# Healtcare industry is revolutionize by the AI
 
 ## Overview and Origin
 
-* Name of company
+* Company name: insitro
 
-* When was the company incorporated?
+* Company was founded in 2018 in California, USA.
 
-* Who are the founders of the company?
+* Daphne Koller and a number of founding investors started the company: Arch Venture Partners, Andreessen.Horowitz (a16z), Foresite Capital, GV, Third Rock Venures.
 
-* How did the idea for the company (or project) come about?
+* Daphne Koller, a longtime ML resercher for over 25 years, come to ideea of rethinking drug discovery using machine learning.
 
-* How is the company funded? How much funding have they received?
+* Company is funded by investors. Not only those mentioned above but also: BlackRock, CPP Investments (Canada Pension Plan Investment Board), Casdin Capital, HOF Capital, funds and accounts advised by Softbank Investment Advisors, T. Rowe Price Associates, Inc., Temasek, Two Sigma Ventures, and WuXi AppTec's Corporate Venture Fund
+A Series C financing round raised $400 millions on March 15, 2021.
+$143 million raised in series B financing on May 26, 2020.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* Company is an AI-driven drug discovery and development through the application of machine learning 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* The company's intended customer are drug manufacturers and heathcare providers.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* As solution, the company leverage the tools of modern biology to generate high-quality, large data sets optimized for machine learning. Company "invest heavily in the creation of our own datasets using high throughput experimental approaches, datasets that are designed explicitly with machine learning in mind from the very start". Also, it combine "deeply experienced biologists and drug hunters" working with "leading edge technologists and machine learners".
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape
 
-* What field is the company in?
+* Company activate in healthcare industry, a multi-billion global one. There is a transformation underway in healthcare due to the adoption of disruptive technologies.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-* What are the other major companies in this field?
+* Among other major companies in this field we found: Arterys, Butterfly Network, Caption Health, Olive AI, Babylon Health, Owkin, Cleerly, DeepMind (in partner with hospitals).
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Insitro grow by acquiring Haystack sciences. It established a series of collaborations with others in thefield: Bristol Myers Squibb and with Genomic England. It is on Forbes list of AI 50 most promising AI companies. Founder and CEO Daphne Koller has been selected as one of Inc.'s 100 Female Founders.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Use of the multimodal patient data to capture the heterogeneity of disease, like Owkin does. Also, if data is local than one ideea, by the same Owkin, is to build models locally without pooling data.
 
-* Why do you think that offering this product or service would benefit the company?
+* This will increase the data available for ML resulting more robust and accurate models, will accelerate the development.
 
-* What technologies would this additional product or service utilize?
+* Train machine learning models on distributed datasets, will be the technology need it. Obvious, reason been to avoid pooling data in one location.
 
-* Why are these technologies appropriate for your solution?
+Links/source used:
+* https://medium.com/@daphne_38275/insitro-rethinking-drug-discovery-using-machine-learning-dcb0371870ee
+* https://insitro.com/about
+* https://www.ampliz.com/resources/top-10-ai-healthcare-startups/
+* https://insitro.com/news
+* https://www.owkin.com/
